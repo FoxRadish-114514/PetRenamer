@@ -33,7 +33,7 @@ Mods: {
 			}
 		}
 
-		Buffs.PetBuff.Name: Name: {0}
+		Buffs.PetBuff.Name: 名字: {0}
 
 		Items: {
 			PetItems: {
